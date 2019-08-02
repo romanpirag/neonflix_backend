@@ -36,7 +36,14 @@ spinal_tap = Movie.create(title: "This is Spinal Tap", genre: "comedy", year: 19
 beetlejuice = Movie.create(title: "Beetlejuice", genre: "comedy", year: 1988, director:"Tim Burton", cast: ["Alec Baldwin", "Geena Davis","Michael Keaton"], rating: 10, image: "https://i.imgur.com/m693bPT.jpg", synopsis: "The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out.")
 
 # Scifi
-
+the_abyss = Movie.create(title: "Beetlejuice", genre: "scifi", year: 1989, director:"James Cameron", cast: ["Ed Harris", "Mary Elizabeth Mastrantonio","Michael Biehn"], rating: 10, image: "https://i.imgur.com/m693bPT.jpg", synopsis: "A civilian diving team is enlisted to search for a lost nuclear submarine and face danger while encountering an alien aquatic species.")
+blade_runner = Movie.create(title: "Blade Runner", genre: "scifi", year: 1982, director:"Ridley Scott", cast: ["Harrison Ford","Rutger Hauer","Sean Young"], rating: 9, image: "https://i.imgur.com/m693bPT.jpg", synopsis: "A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.")
+aliens = Movie.create(title: "Aliens", genre: "scifi", year: 1986, director:"James Cameron", cast: ["Sigourney Weaver","Michael Biehn","Carrie Henn"], rating: 9, image: "https://i.imgur.com/m693bPT.jpg", synopsis: "Ellen Ripley is rescued by a deep salvage team after being in hypersleep for 57 years. The moon that the Nostromo visited has been colonized, but contact is lost. This time, colonial marines have impressive firepower, but will that be enough?")
+back_future = Movie.create(title: "Back to the Future", genre: "scifi", year: 1985, director:"Robert Zemeckis", cast: ["Michael J. Fox","Christopher Lloyd","Lea Thompson"], rating: 10, image: "https://i.imgur.com/m693bPT.jpg", synopsis: "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.")
+robocop = Movie.create(title: "RoboCop", genre: "scifi", year: 1987, director:"Paul Verhoeven", cast: ["Peter Weller","Nancy Allen","Dan O'Herlihy"], rating: 8, image: "https://i.imgur.com/m693bPT.jpg", synopsis: "In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories.")
+flash_gordon = Movie.create(title: "Flash Gordon", genre: "scifi", year: 1980, director:"Mike Hodges", cast: ["Sam J. Jones","Melody Anderson","Max von Sydow"], rating: 8, image: "https://i.imgur.com/m693bPT.jpg", synopsis: "A football player and his friends travel to the planet Mongo and find themselves fighting the tyranny of Ming the Merciless to save Earth.")
+dune = Movie.create(title: "Dune", genre: "scifi", year: 1984, director:"David Lynch", cast: ["Kyle MacLachlan","Virginia Madsen","Francesca Annis"], rating: 8, image: "https://i.imgur.com/m693bPT.jpg", synopsis: "A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis when they assassinate his father and free their desert world from the emperor's rule.")
+tron = Movie.create(title: "Tron", genre: "scifi", year: 1982, director:"Steven Lisberger", cast: ["Jeff Bridges","Bruce Boxleitner","David Warner"], rating: 6, image: "https://i.imgur.com/m693bPT.jpg", synopsis: "A computer hacker is abducted into the digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.")
 
 
 # Adventure::
@@ -45,9 +52,6 @@ raiders_ark = Movie.create(title: "Raiders of the Lost Ark", genre: "adventure",
 last_crusade = Movie.create(title: "Indiana Jones and the Last Crusade", genre: "adventure", year: 1989, director:"Steven Spielberg", cast: ["Harrison Ford", "Sean Connery", "Alison Doody"], rating: 9, image: "https://i.imgur.com/m693bPT.jpg", synopsis: "In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry Indiana Jones, Jr. finds himself up against Adolf Hitler's Nazis again to stop them from obtaining its powers." )
 romancing_stone = Movie.create(title: "Romancing the Stone", genre: "adventure", year: 1984, director:"Robert Zemeckis", cast: ["Michael Douglas", "Kathleen Turner", "Danny DeVito"], rating: 8, image: "https://i.imgur.com/m693bPT.jpg", synopsis: "A mousy romance novelist sets off for Colombia to ransom her kidnapped sister, and soon finds herself in the middle of a dangerous adventure hunting for treasure with a mercenary rogue." )
 pee_wee = Movie.create(title: "Pee-Wee's Big Adventure", genre: "adventure", year: 1985, director:"Tim Burton", cast: ["Paul Reubens", "Elizabeth Daily", "Mark Holton"], rating: 8, image: "https://i.imgur.com/m693bPT.jpg", synopsis: "When eccentric man-child Pee-wee Herman gets his beloved bike stolen in broad daylight, he sets out across the U.S. on the adventure of his life." )
-
-
-
 
 
 
