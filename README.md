@@ -8,3 +8,5 @@ custom CSS on the frontend and Ruby on Rails API with Postgres database for back
 + User can obtain more information on each film including: year / cast / rating / synopsis.
 
 Enjoy the experience! ::
+
+
