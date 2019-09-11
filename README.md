@@ -1,12 +1,16 @@
-THIS IS THE README FOR :: NEONFLIX ::
-An 80's themed (Netflix) movie catalogue ::
+![NeonFlix](https://i.imgur.com/a87UI96.png)
 
-+ Designed and developed responsive full-stack app using React / ES6 with
-custom CSS on the frontend and Ruby on Rails API with Postgres database for backend.
+# NEONFLIX
+The 1980's inspired Neon Netflix of the future!
+Watch your favorite 80's movie by genre.
 
-+ User is able to view movies and browse by genre / year / rating. 
-+ User can obtain more information on each film including: year / cast / rating / synopsis.
+## Production 
 
-Enjoy the experience! ::
+• JAVASCRIPT ES6 / REACT FRONTEND / CUSTOM CSS (No Bootstrap/Samantic etc..)
+• RUBY ON RAILS BACKEND
+• Using CSS GRID for responsive design
+
+
+Send all comments and suggestions to romanpirag@gmail.com
 
 
