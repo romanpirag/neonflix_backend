@@ -10,7 +10,8 @@ Watch your favorite 80's movie by genre.
 • RUBY ON RAILS BACKEND
 • Using CSS GRID for responsive design
 
-
 Send all comments and suggestions to romanpirag@gmail.com
+
+
 
 
